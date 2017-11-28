@@ -34,11 +34,11 @@ http://other_webserver.com
 ```
 
 ## 参考 
-[CentOSにちょっと古いバージョンのNginxをインストールする](https://qiita.com/segawa/items/bb1d0cd78e890a1e4170)
-[PHP Laravelのartisanコマンドのまとめ](https://urashita.com/archives/7174)
-[CentOS7 に nginx導入](https://qiita.com/MuuKojima/items/afc0ad8309ba9c5ed5ee)
-[CentOS7.3 に MySQL5.7 をインストールした時のメモ](https://qiita.com/prgseek/items/7c77d4b14d0afbf84f5c)
-[CentOS7にComposerをインストールする](https://qiita.com/inakadegaebal/items/d370bcb1627fce2b5cd1)
+* [CentOSにちょっと古いバージョンのNginxをインストールする](https://qiita.com/segawa/items/bb1d0cd78e890a1e4170)
+* [PHP Laravelのartisanコマンドのまとめ](https://urashita.com/archives/7174)
+* [CentOS7 に nginx導入](https://qiita.com/MuuKojima/items/afc0ad8309ba9c5ed5ee)
+* [CentOS7.3 に MySQL5.7 をインストールした時のメモ](https://qiita.com/prgseek/items/7c77d4b14d0afbf84f5c)
+* [CentOS7にComposerをインストールする](https://qiita.com/inakadegaebal/items/d370bcb1627fce2b5cd1)
 
 ## Licence
 
