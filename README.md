@@ -11,15 +11,12 @@ vagrantでlaravelのdevelop環境を構築する手順
 ```
 $ git clone https://github.com/hirasaki1985/vagrant_laravel.git
 $ cd vagrant_laravel
-$ chmod -R 775 ./
-$ vagrant box add centos72 https://github.com/CommanderK5/packer-centos-template/releases/download/0.7.2/vagrant-centos-7.2.box
-$ vagrant up
-```
-
-もしくは、以下コメントでlaravelのインストール
-```
 $ rm -rf laravel
 $ composer create-project laravel/laravel
+
+$ vagrant box add centos72 https://github.com/CommanderK5/packer-centos-template/releases/download/0.7.2/vagrant-centos-7.2.box
+$ vagrant up
+$ chmod -R 777 ./laravel
 ```
 
 ## sudo vi /etc/hosts
